@@ -1,2 +1,2 @@
-# Win-Script
-A PowerShell script to automate app installation for a fresh Windows install.
+# Windows PowerShell Script
+A simple PowerShell script to automate software installation for a fresh Windows install.
