@@ -1,4 +1,5 @@
 $apps = @(
+    "Oracle.JavaRuntimeEnvironment",
 	"9P1TBXR6QDCX",
 	"9NKSQGP7F2NH",
 	"9NRSP6BRXBZQ",
@@ -41,12 +42,10 @@ $apps = @(
 	"Famatech.RadminVPN",
     "Python.Python.3.9",
     "OBSProject.OBSStudio",
-    "GIMP.GIMP",
     "Notepad++.Notepad++",
     "OpenJS.NodeJS",
     "LocalSend.LocalSend",
     "Logitech.GHUB",
-    "Oracle.JavaRuntimeEnvironment",
     "Discord.Discord",
     "CPUID.HWMonitor",
     "CPUID.CPU-Z",
@@ -58,6 +57,8 @@ $apps = @(
     "Logitech.LogiTune",
     "MiniTool.PartitionWizard.Free",
     "ElectronicArts.EADesktop",
+    "GIMP.GIMP.3",
+    "TheDocumentFoundation.LibreOffice",
     "Valve.Steam"
 )
 
